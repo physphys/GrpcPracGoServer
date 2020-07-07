@@ -1,0 +1,3 @@
+[submodule "GrpcPracProto"]
+	path = GrpcPracProto
+	url = git@github.com:physphys/GrpcPracProto.git
